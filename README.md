@@ -11,4 +11,5 @@ This project applies Machine Learning algorithms to the Iris dataset for flower 
 - Compare model performances
 - Visualize decision boundaries
 
-Author - Padmini.B.N.
+# Applied Decision tree,Random forest,knn,SVC,naive bayes classification algorithms to the Data set.
+# Got 93% accuracy across all the models.
