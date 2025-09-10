@@ -13,3 +13,27 @@ This project applies Machine Learning algorithms to the Iris dataset for flower 
 
 # Applied Decision tree,Random forest,knn,SVC,naive bayes classification algorithms to the Data set.
 # Got 93% accuracy across all the models.
+# Machine Learning Practice Notebooks
+
+This repository contains my daily practice work on machine learning datasets.  
+
+- **Day 3: Breast Cancer Diagnostic Dataset**
+  - Preprocessed data (dropped ID column, handled target labels)
+  - Applied 6 classification models
+  - Logistic Regression achieved ~95% accuracy (cross-validation)
+  - Precision ≈ 0.95, Recall ≈ 0.92 for malignant class
+  - Next step: Threshold tuning to improve recall
+
+---
+
+## 🚀 Next Steps
+- Threshold tuning for Logistic Regression (to improve recall for malignant cases)
+- Try Precision-Recall curve visualization
+- Explore other datasets (UCI, Kaggle) for practice
+
+---
+
+## 🛠️ Tools Used
+- Python  
+- Jupyter Notebook  
+- Libraries: `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`
